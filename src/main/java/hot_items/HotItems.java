@@ -59,4 +59,3 @@ public class HotItems {
         env.execute("Hot Items Job");
     }
 }
-
